@@ -1,3 +1,4 @@
+#3 variant
 a = float(input('Введите 1-ое число: '))
 b = float(input('Введите 2-ое число: '))
 c = float(input('Введите 3-е число: '))
