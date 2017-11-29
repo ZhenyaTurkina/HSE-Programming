@@ -8,16 +8,16 @@ while word != "":
     if word == "":
         print ("гитлер капут")
         
-a = len(list)
+a = len (list)
 
 m = 1
 
 with open ("C:\\Users\\ЕВГЕНИЯ\\Desktop\\kryak.txt","w",encoding='utf-8')as f:   
     for i in range (a):
-        word = list[i]
-        word_1 = word[m:]
-        m+=1
-        f.write(word_1+'\n')
+        word = list [i]
+        word_1 = word [m:]
+        m += 1
+        f.write (word_1 + '\n')
 
 
 
