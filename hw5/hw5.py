@@ -12,7 +12,7 @@ a = len (list)
 
 m = 1
 
-with open ("C:\\Users\\ЕВГЕНИЯ\\Desktop\\kryak.txt","w",encoding='utf-8')as f:   
+with open ("kryak.txt","w",encoding='utf-8')as f:   
     for i in range (a):
         word = list [i]
         word_1 = word [m:]
