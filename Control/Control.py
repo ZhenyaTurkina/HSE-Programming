@@ -5,10 +5,10 @@ a=len(lines)
 res=[]
 
 '''
-text=text.replace('... -','')
-text=text.replace('. -','')
-text=text.replace('? -','')
-text=text.replace('! -','')
+text=text.replace('... -','. — ')
+text=text.replace('. -','. — ')
+text=text.replace('? -','. — ')
+text=text.replace('! -','. — ')
 '''
 
 for i in range(a):
