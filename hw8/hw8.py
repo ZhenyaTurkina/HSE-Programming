@@ -22,7 +22,7 @@ def creat(raw_text):
 def main():
     q = 0
     N = 1
-    raw_data = get_word('C:\\Users\\ЕВГЕНИЯ\\Desktop\\spisok_slovosochetanii.csv')
+    raw_data = get_word('spisok_slovosochetanii.csv')
     creation = creat(raw_data)
     values = []
     keys = []
